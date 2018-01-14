@@ -1,6 +1,5 @@
-ReadMe:
 
-Contains a Lisp Interpreter. There are two folders:
+Contains Lisp Interpreter. There are two folders:
 
 Part 1: 
 
